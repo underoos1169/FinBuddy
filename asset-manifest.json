@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FinBuddy/static/css/main.d26e26ff.css",
+    "main.js": "/FinBuddy/static/js/main.815f1de7.js",
+    "static/media/simple-smooth-fabric-textured-background.jpg": "/FinBuddy/static/media/simple-smooth-fabric-textured-background.b118fdc075f685f6086a.jpg",
+    "static/media/osita-osita-iheme.gif": "/FinBuddy/static/media/osita-osita-iheme.c2dfa790033ad6511abe.gif",
+    "index.html": "/FinBuddy/index.html",
+    "main.d26e26ff.css.map": "/FinBuddy/static/css/main.d26e26ff.css.map",
+    "main.815f1de7.js.map": "/FinBuddy/static/js/main.815f1de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d26e26ff.css",
+    "static/js/main.815f1de7.js"
+  ]
+}
